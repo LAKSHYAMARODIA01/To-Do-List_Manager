@@ -17,7 +17,7 @@ The To-Do List Manager is a console-based application designed to help users org
 
 1. **Clone the Repository**: If you haven't already, clone the repository to your local machine using:
    ```bash
-   git clone <https://github.com/LAKSHYAMARODIA01/To-Do-List>
+   git clone https://github.com/LAKSHYAMARODIA01/To-Do-List_Manager.git
 
 2. **Navigate to the Project Directory**:
     ```bash
