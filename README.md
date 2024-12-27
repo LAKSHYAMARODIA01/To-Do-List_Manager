@@ -52,3 +52,7 @@ This project is open-source and available under the MIT License. Feel free to mo
 ## Acknowledgments
 Inspired by various task management applications.
 Thanks to the Python community for their continuous support and resources.
+
+## 📫 Contact
+For any inquiries or feedback, please contact me at www.linkedin.com/in/lakshya-marodia .
+
